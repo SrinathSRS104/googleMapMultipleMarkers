@@ -1,0 +1,24 @@
+{
+  "markers": {
+    "marker1": {
+      "name": "Marker 1",
+      "lat": 6.9271,
+      "lng": 79.8612
+    },
+    "marker2": {
+      "name": "Marker 2",
+      "lat": 6.9280,
+      "lng": 79.8620
+    },
+    "marker3": {
+      "name": "Marker 3",
+      "lat": 6.9280, 
+      "lng": 79.8720
+    },
+    "marker4": {
+        "name": "Marker 4",
+        "lat": 6.9280,
+        "lng": 79.8654
+    }
+  }
+}
